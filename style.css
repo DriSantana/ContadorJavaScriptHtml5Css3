@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(161, 250, 220);
+   
+}
+
+
+#inputType{
+    
+    
+    text-align: center;
+    border-radius: 5px;
+    
+    
+    
+    
+}
+
+
+#input2{
+   height: 100px;
+   width: 100px;
+}
+
+
+
+#inputdiv2{
+    padding-top: 15px;
+    
+}
+
+#buttomadd{
+    cursor: pointer;
+
+}
+
+
+#add{
+    display: flex;
+    flex-direction: column;
+}
+
+#bodycounter{
+    display: flex;
+    background-color: rgba(239, 245, 243, 0.89);
+    height: 450px;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+
+   
+    
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(69, 182, 94);
+}
+
+
+
+.conteudo{
+    text-align: center;
+
+}
+
+
+
+footer{
+    text-align: center;
+    padding-top: 10px;
+}
